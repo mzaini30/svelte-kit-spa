@@ -1,0 +1,1 @@
+purgecss --css static/bootstrap.min.css --content src/**/*.svelte src/app.html --output build/
